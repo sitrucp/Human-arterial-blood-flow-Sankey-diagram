@@ -1,0 +1,881 @@
+source,target,value
+aorta,brachiocephalic trunk,3
+aorta,celiac trunk,1
+aorta,esophageal,1
+aorta,great anterior radicular,1
+aorta,inferior mesenteric,1
+aorta,inferior phrenic,1
+aorta,L-common carotid,3
+aorta,L-common iliac,1
+aorta,L-coronary,2
+aorta,L-bronchial inferior,1
+aorta,L-bronchial superior,1
+aorta,L-lumbar 1,1
+aorta,L-lumbar 2,1
+aorta,L-lumbar 3,1
+aorta,L-lumbar 4,1
+aorta,L-middle suprarenal,1
+aorta,L-ovarian,1
+aorta,L-posterior intercostal 1,1
+aorta,L-posterior intercostal 2,1
+aorta,L-posterior intercostal 3,1
+aorta,L-posterior intercostal 4,1
+aorta,L-posterior intercostal 5,1
+aorta,L-posterior intercostal 6,1
+aorta,L-posterior intercostal 7,1
+aorta,L-posterior intercostal 8,1
+aorta,L-posterior intercostal 9,1
+aorta,L-renal,2
+aorta,L-subclavian,1
+aorta,L-subcostal,1
+aorta,L-testicular,1
+aorta,median sacral,1
+aorta,mediastinal brs.,1
+aorta,R-common iliac,1
+aorta,R-coronary,1
+aorta,R-bronchial,1
+aorta,R-lumbar 1,1
+aorta,R-lumbar 2,1
+aorta,R-lumbar 3,1
+aorta,R-lumbar 4,1
+aorta,R-middle suprarenal,1
+aorta,R-ovarian,1
+aorta,R-posterior intercostal,1
+aorta,R-posterior intercostal 1,1
+aorta,R-posterior intercostal 2,1
+aorta,R-posterior intercostal 3,1
+aorta,R-posterior intercostal 4,1
+aorta,R-posterior intercostal 5,1
+aorta,R-posterior intercostal 6,1
+aorta,R-posterior intercostal 7,1
+aorta,R-posterior intercostal 8,1
+aorta,R-posterior intercostal 9,1
+aorta,R-renal,2
+aorta,R-subcostal,1
+aorta,R-testicular,1
+aorta,superior mesenteric,1
+aorta,superior phrenic,1
+basilar,L-anterior inferior cerebellar,1
+basilar,L-pontine brs.,1
+basilar,L-posterior cerebral,1
+basilar,L-superior cerebellar,1
+basilar,R-anterior inferior cerebellar,1
+basilar,R-pontine brs.,1
+basilar,R-posterior cerebral,1
+basilar,R-posterior cerebral,1
+basilar,R-superior cerebellar,1
+brachiocephalic trunk,R-common carotid,3
+brachiocephalic trunk,R-subclavian,1
+celiac trunk,common hepatic,1
+celiac trunk,L-gastric,1
+celiac trunk,splenic,1
+common hepatic,gastroduodenal,1
+common hepatic,proper hepatic,1
+common hepatic,R-gastric,1
+dorsal pancreatic,inferior pancreatic,1
+gastroduodenal,retroduodenal,1
+gastroduodenal,R-gastro-omental,1
+gastroduodenal,superior pancreaticoduodenal,1
+gastroduodenal,supraduodenal,1
+ileocolic,anterior cecal,1
+ileocolic,appendicular,1
+ileocolic,ileal br.,1
+ileocolic,ileocolic colic br.,1
+ileocolic,posterior cecal,1
+inferior mesenteric,L-colic,1
+inferior mesenteric,sigmoid,1
+inferior mesenteric,superior rectal,1
+inferior pancreaticoduodenal,anterior inferior pancreaticoduodenal ,1
+inferior pancreaticoduodenal,posterior inferior pancreaticoduodenal,1
+inferior phrenic,lateral branch of inferior phrenic,1
+inferior phrenic,L-phrenic,1
+inferior phrenic,medial branch of inferior phrenic,1
+inferior phrenic,R-phrenic,1
+inferior phrenic,superior suprarenal,1
+intestinal,intestinal arteries,1
+L-anterior cerebral,anterior communicating,1
+L-anterior cerebral,L-callosomarginal,1
+L-anterior cerebral,L-medial frontobasal,1
+L-anterior cerebral,L-polar frontal,1
+L-anterior cerebral,L-precuneal,1
+L-anterior ethmoidal,L-anterior lateral nasal br.,1
+L-anterior ethmoidal,L-anterior meningeal,1
+L-anterior ethmoidal,L-anterior septal br.,1
+L-anterior inferior cerebellar,L-labyrinthine,1
+L-anterior interosseous,L-muscular brs.; of the median nerve,1
+L-anterior renal br.,L-anterior inferior segmental,1
+L-anterior renal br.,L-anterior superior segmental,1
+L-anterior renal br.,L-inferior segmental,1
+L-anterior renal br.,L-inferior suprarenal,1
+L-anterior renal br.,L-superior segmental,1
+L-anterior superior alveolar,L-anterior superior alveolar dental brs.,1
+L-anterior superior alveolar,L-mucosal brs.,1
+L-anterior tibial,L-anterior lateral malleolar,1
+L-anterior tibial,L-anterior medial malleolar,1
+L-anterior tibial,L-anterior tibial circumflex fibular,1
+L-anterior tibial,L-anterior tibial recurrent,1
+L-anterior tibial,L-dorsalis pedis,1
+L-anterior tibial,L-lateral malleolar,1
+L-anterior tibial,L-medial malleolar,1
+L-anterior tibial,L-posterior tibial recurrent,1
+L-arcuate,L-interlobular,1
+L-ascending pharyngeal,L-inferior tympanic,1
+L-ascending pharyngeal,L-pharyngeal brs.,1
+L-ascending pharyngeal,L-posterior meningeal,1
+L-ascending pharyngeal,L-posterior meningeal,1
+L-axillary,L-anterior circumflex humeral,1
+L-axillary,L-anterior humeral circumflex,1
+L-axillary,L-brachial,1
+L-axillary,L-lateral thoracic,1
+L-axillary,L-posterior circumflex humeral,1
+L-axillary,L-posterior humeral circumflex,1
+L-axillary,L-subscapular,1
+L-axillary,L-superior thoracic,1
+L-axillary,L-thoracoacromial,1
+L-brachial,L-deep brachial,1
+L-brachial,L-inferior ulnar collateral,1
+L-brachial,L-radial,1
+L-brachial,L-superior ulnar collateral,1
+L-brachial,L-ulnar,1
+L-circumflex,circumflex marginal br.,1
+L-colic,L-colic ascending br.,1
+L-colic,L-colic descending br.,1
+L-common carotid,L-external carotid,2
+L-common carotid,R-internal carotid,2
+L-common iliac,L-external iliac,1
+L-common iliac,"L-internal iliac, anterior division",1
+L-common iliac,"L-internal iliac, posterior division",1
+L-common interosseous,L-anterior interosseous,1
+L-common interosseous,L-posterior interosseous,1
+L-common palmar digital,L-proper palmar digital,1
+L-coronary,anterior interventricular,1
+L-coronary,L-circumflex,1
+L-costocervical trunk,L-deep cervical,1
+L-costocervical trunk,L-posterior intercostal 10,1
+L-costocervical trunk,L-posterior intercostal 11,1
+L-deep brachial,L-deep brachial ascending br,1
+L-deep brachial,L-deep brachial middle collateral,1
+L-deep brachial,L-deep brachial radial collateral,1
+L-deep brachial,L-middle collateral,1
+L-deep brachial,L-radial collateral,1
+L-deep femoral,L-deep femoral perforating (3 or 4),1
+L-deep femoral,L-lateral circumflex femoral,1
+L-deep femoral,L-medial circumflex femoral,1
+L-deep palmar arch,L-deep palmar arch perforating brs.,1
+L-deep palmar arch,L-palmar metacarpal,1
+L-deep plantar,L-plantar metatarsal,1
+L-descending genicular,L-articular brs.,1
+L-descending genicular,L-saphenous br.,1
+L-descending palatine,L-greater palatine,1
+L-descending palatine,L-lesser palatine,1
+L-dorsal carpal arterial arch,L-dorsal metacarpal,1
+L-dorsal metacarpal,L-dorsal metacarpal dorsal digital,1
+L-dorsal metatarsal,L-dorsal digital,1
+L-dorsal metatarsal,L-of foot dorsal digital,1
+L-dorsalis pedis,L-deep plantar,1
+L-dorsalis pedis,L-dorsal metatarsal,1
+L-dorsalis pedis,L-dorsalis pedis arcuate,1
+L-dorsalis pedis,L-lateral tarsal,1
+L-dorsalis pedis,L-medial tarsal,1
+left ventricle,aorta,10
+L-external carotid,L-ascending pharyngeal,1
+L-external carotid,L-facial,1
+L-external carotid,L-lingual,1
+L-external carotid,L-maxillary,1
+L-external carotid,L-occipital,1
+L-external carotid,L-posterior auricular,1
+L-external carotid,L-superficial temporal,1
+L-external carotid,L-superior thyroid,1
+L-external iliac,L-deep circumflex iliac,1
+L-external iliac,L-femoral,1
+L-external iliac,L-inferior epigastric,1
+L-facial,L-angular,1
+L-facial,L-facial ascending palatine,1
+L-facial,L-inferior labial,1
+L-facial,L-lateral nasal,1
+L-facial,L-submental,1
+L-facial,L-superior labial,1
+L-facial,L-tonsilar br.,1
+L-femoral,L-deep external pudendal,1
+L-femoral,L-deep femoral,1
+L-femoral,L-descending genicular,1
+L-femoral,L-popliteal,1
+L-femoral,L-superficial circumflex iliac,1
+L-femoral,L-superficial epigastric,1
+L-femoral,L-superficial external pudendal,1
+L-fibular,L-fibular communicating br.,1
+L-fibular,L-fibular perforating br.,1
+L-fibular,L-lateral malleolar,1
+L-fibular,L-nutrient br.,1
+L-fibular,L-posterior lateral malleolar,1
+L-gastric,L-gastric esophageal brs.,1
+L-gastro-omental,L-gastro-omental gastric brs.,1
+L-hepatic,segmental,1
+L-iliolumbar,L-iliac br.,1
+L-iliolumbar,L-lumbar br.,1
+L-inferior alveolar,L-inferior alveolar dental brs.,1
+L-inferior alveolar,L-lingual br.,1
+L-inferior alveolar,L-mental,1
+L-inferior alveolar,L-mylohyoid,1
+L-inferior epigastric,L-cremasteric,1
+L-inferior thyroid,L-ascending cervical,1
+L-inferior thyroid,L-inferior laryngeal,1
+L-inferior thyroid,L-inferior thyroid ascending cervical,1
+L-inferior thyroid,L-inferior thyroid esophageal brs.,1
+L-inferior thyroid,L-inferior thyroid glandular brs.,1
+L-inferior thyroid,L-tracheal brs.,1
+L-inferior vesical,L-artery of the ductus deferens,1
+L-infraorbital,L-anterior superior alveolar,1
+L-infraorbital,L-middle superior alveolar,1
+L-interlobar,L-of kidney arcuate,1
+L-internal carotid,L-anterior cerebral,1
+L-internal carotid,L-caroticotympanic,1
+L-internal carotid,L-choroidal,1
+L-internal carotid,L-middle cerebral,1
+L-internal carotid,L-none in the neck; in the head: ophthalmic,1
+L-internal carotid,L-ophthalmic,1
+L-internal carotid,L-posterior communicating,1
+"L-internal iliac, anterior division",L-inferior gluteal,1
+"L-internal iliac, anterior division",L-inferior vesical,1
+"L-internal iliac, anterior division",L-internal pudendal,1
+"L-internal iliac, anterior division",L-middle rectal,1
+"L-internal iliac, anterior division",L-obturator,1
+"L-internal iliac, anterior division",L-umbilical,1
+"L-internal iliac, anterior division",L-uterine,1
+"L-internal iliac, anterior division",L-vaginal,1
+"L-internal iliac, posterior division",L-iliolumbar,1
+"L-internal iliac, posterior division",L-lateral sacral,1
+"L-internal iliac, posterior division",L-superior gluteal,1
+L-internal pudendal,L-bulb of the clitoris/penis,1
+L-internal pudendal,L-bulb of vestibule,1
+L-internal pudendal,L-deep clitoral/penile,1
+L-internal pudendal,L-dorsal clitoral/penile,1
+L-internal pudendal,L-inferior rectal,1
+L-internal pudendal,L-perineal,1
+L-internal pudendal,L-urethral,1
+L-internal thoracic,L-anterior intercostal,1
+L-internal thoracic,L-internal thoracic mediastinal brs.,1
+L-internal thoracic,L-internal thoracic perforating brs.,1
+L-internal thoracic,L-musculophrenic,1
+L-internal thoracic,L-pericardiacophrenic,1
+L-internal thoracic,L-superior epigastric,1
+L-internal thoracic,L-thymic brs.,1
+L-internal thoracic perforating brs.,L-medial mammary,1
+L-lacrimal,L-lateral palpebral,1
+L-lateral circumflex femoral,L-lateral circumflex femoral ascending br.,1
+L-lateral circumflex femoral,L-lateral circumflex femoral descending br.,1
+L-lateral circumflex femoral,L-lateral circumflex femoral transverse br.,1
+L-lateral palpebral,L-inferior br.,1
+L-lateral palpebral,L-superior br.,1
+L-lateral plantar,L-plantar arterial arch,1
+L-lateral plantar,L-proper plantar digital to lateral side of 5th digit,1
+L-lateral sacral,L-anterior radicular,1
+L-lateral sacral,L-lateral sacral anterior spinal,1
+L-lateral sacral,L-lateral sacral posterior spinal,1
+L-lateral sacral,L-posterior radicular,1
+L-lateral thoracic,L-lateral mammary,1
+L-lingual,L-deep lingual,1
+L-lingual,L-dorsal lingual brs.,1
+L-lingual,L-sublingual,1
+L-lingual,L-suprahyoid br.,1
+L-maxillary,L-anterior deep temporal,1
+L-maxillary,L-anterior tympanic,1
+L-maxillary,L-buccal,1
+L-maxillary,L-deep auricular,1
+L-maxillary,L-descending palatine,1
+L-maxillary,L-inferior alveolar,1
+L-maxillary,L-infraorbital,1
+L-maxillary,L-masseteric,1
+L-maxillary,L-middle meningeal,1
+L-maxillary,L-of the pterygoid canal,1
+L-maxillary,L-posterior deep temporal,1
+L-maxillary,L-posterior superior alveolar,1
+L-maxillary,L-sphenopalatine,1
+L-medial circumflex femoral,L-medial circumflex femoral ascending br.,1
+L-medial circumflex femoral,L-medial circumflex femoral descending br.,1
+L-medial palpebral,L-inferior br.,1
+L-medial palpebral,L-superior br.,1
+L-medial plantar,L-digital brs. (3),1
+L-middle cerebral,L-anterior parietal,1
+L-middle cerebral,L-central sulcal,1
+L-middle cerebral,L-lateral frontobasal,1
+L-middle cerebral,L-middle central anterior,1
+L-middle cerebral,L-middle cerebral temporal,1
+L-middle cerebral,L-posterior parietal,1
+L-middle cerebral,L-posterior temporal,1
+L-middle cerebral,L-precentral sulcal,1
+L-middle cerebral,L-prefrontal sulcal,1
+L-middle meningeal,L-frontal br.,1
+L-middle meningeal,L-frontal br.,1
+L-middle meningeal,L-middle meningeal parietal br.,1
+L-middle meningeal,L-petrous br.,1
+L-middle meningeal,L-superior tympanic br.,1
+L-middle superior alveolar,L-dental brs.,1
+L-middle superior alveolar,L-middle superior alveolar dental brs.,1
+L-middle superior alveolar,L-mucosal brs.,1
+L-musculophrenic,L-anterior intercostal,1
+L-obturator,L-acetabular br.,1
+L-obturator,L-obturator anterior br.,1
+L-obturator,L-obturator posterior br.,1
+L-obturator,L-pubic br.,1
+L-occipital,L-occipital auricular br.,1
+L-occipital,L-occipital brs.,1
+L-occipital,L-occipital descending br.,1
+L-occipital,L-occipital mastoid br.,1
+L-occipital,L-sternocleidomastoid brs.,1
+L-of retina central,L-inferior nasal br.,1
+L-of retina central,L-inferior temporal br.,1
+L-of retina central,L-superior nasal br.,1
+L-of retina central,L-superior temporal br.,1
+L-ophthalmic,L-anterior ciliary,1
+L-ophthalmic,L-anterior ethmoidal,1
+L-ophthalmic,L-central retinal,1
+L-ophthalmic,L-dorsal nasal,1
+L-ophthalmic,L-lacrimal,1
+L-ophthalmic,L-medial palpebral,1
+L-ophthalmic,L-muscular brs.,1
+L-ophthalmic,L-of retina central,1
+L-ophthalmic,L-posterior ciliary,1
+L-ophthalmic,L-posterior ethmoidal,1
+L-ophthalmic,L-supraorbital,1
+L-ophthalmic,L-supratrochlear,1
+L-ovarian,L-tubal brs.,1
+L-ovarian,L-uterine brs.,1
+L-palmar metacarpal,L-proper palmar digital,1
+L-pericardiacophrenic,L-pericardial br.,1
+L-pericardiacophrenic,L-sternal br.,1
+L-perineal,L-posterior labial,1
+L-perineal,L-posterior scrotal,1
+L-perineal,L-posterior scrotal,1
+L-perineal,L-posterior scrotal,1
+L-plantar arterial arch,L-plantar metatarsal,1
+L-plantar metatarsal,L-plantar digital,1
+L-plantar metatarsal,L-plantar metatarsal perforating br.,1
+L-popliteal,L-5 genicular brs.,1
+L-popliteal,L-anterior tibial,1
+L-popliteal,L-inferior medial genicular,1
+L-popliteal,L-middle genicular,1
+L-popliteal,L-posterior tibial,1
+L-popliteal,L-superior lateral genicular,1
+L-popliteal,L-superior medial genicular,1
+L-popliteal,L-sural,1
+L-posterior auricular,L-auricular br.,1
+L-posterior auricular,L-occipital br.,1
+L-posterior auricular,L-stylomastoid,1
+L-posterior cerebral,L-central brs.,1
+L-posterior cerebral,L-choroidal brs.,1
+L-posterior cerebral,L-cortical brs.,1
+L-posterior cerebral,L-quadrigeminal,1
+L-posterior communicating,L-posterior communicating perforating,1
+L-posterior inferior cerebellar,L-posterior spinal,1
+L-posterior interosseous,L-interosseous recurrent,1
+L-posterior lateral malleolar,L-calcaneal brs.,1
+L-posterior spinal,L-pial arterial plexus,1
+L-posterior superior alveolar,L-mucosal brs.,1
+L-posterior superior alveolar,L-posterior superior alveolar dental brs.,1
+L-posterior tibial,L-fibular,1
+L-posterior tibial,L-lateral plantar,1
+L-posterior tibial,L-medial calcaneal brs.,1
+L-posterior tibial,L-medial plantar,1
+L-posterior tibial,L-nutrient of the tibia,1
+L-posterior tibial,L-posterior medial malleolar brs.,1
+L-posterior tibial,L-posterior tibial circumflex fibular,1
+L-posterior tibial,L-posterior tibial communicating br.,1
+L-princeps pollicis,L-two brs. to the thumb,1
+L-pulmonary,L-anterior segmental,1
+L-pulmonary,L-anterior basal segmental,1
+L-pulmonary,L-apical segmental,1
+L-pulmonary,L-inferior lingular,1
+L-pulmonary,L-inferior lobar segmental,1
+L-pulmonary,L-lingular,1
+L-pulmonary,L-medial basal segmental,1
+L-pulmonary,L-posterior basal segmental,1
+L-pulmonary,L-posterior segmental,1
+L-pulmonary,L-superior lingular,1
+L-pulmonary,L-superior lobar segmental,1
+L-pulmonary,L-superior segmental,1
+L-radial,L-deep palmar arch,1
+L-radial,L-deep palmar arterial arch,1
+L-radial,L-dorsal carpal arterial arch,1
+L-radial,L-dorsal carpal br.,1
+L-radial,L-palmar carpal br.,1
+L-radial,L-princeps pollicis,1
+L-radial,L-radial recurrent,1
+L-radial,L-radialis indicis,1
+L-radial,L-superficial palmar br.,1
+L-renal,L-afferent,1
+L-renal,L-anterior renal br.,1
+L-renal,L-arcuate,1
+L-renal,L-interlobar,1
+L-renal,L-posterior segmental,1
+L-sphenopalatine,L-posterior lateral nasal brs.,1
+L-sphenopalatine,L-posterior septal brs.,1
+L-subclavian,L-axillary,1
+L-subclavian,L-costocervical trunk,1
+L-subclavian,L-dorsal scapular,1
+L-subclavian,L-internal thoracic,1
+L-subclavian,L-thyrocervical trunk,1
+L-subclavian,L-vertebral,1
+L-subcostal,L-great anterior radicular,1
+L-subcostal,L-lateral cutaneous br.,1
+L-subcostal,L-subcostal anterior spinal,1
+L-subcostal,L-subcostal collateral br.,1
+L-subcostal,L-subcostal posterior spinal,1
+L-subscapular,L-circumflex scapular,1
+L-subscapular,L-thoracodorsal,1
+L-superficial epigastric,L-cutaneous brs.,1
+L-superficial palmar arterial arch,L-common palmar digital,1
+L-superficial palmar br.,L-superficial palmar arch,1
+L-superficial temporal,L-anterior auricular brs.,1
+L-superficial temporal,L-frontal br.,1
+L-superficial temporal,L-middle temporal,1
+L-superficial temporal,L-superficial temporal parietal br.,1
+L-superficial temporal,L-transverse facial,1
+L-superficial temporal,L-zygomatico-orbital,1
+L-superior gluteal,L-deep br.,1
+L-superior gluteal,L-superficial br.,1
+L-superior labial,L-septal br.,1
+L-superior thyroid,L-cricothyroid,1
+L-superior thyroid,L-infrahyoid br.,1
+L-superior thyroid,L-sternocleidomastoid br.,1
+L-superior thyroid,L-superior laryngeal,1
+L-superior thyroid,L-superior thyroid glandular brs.,1
+L-suprascapular,L-muscular,1
+L-testicular,L-ureteric brs.,1
+L-thoracoacromial,L-acromial br.,1
+L-thoracoacromial,L-clavicular br.,1
+L-thoracoacromial,L-deltoid br.,1
+L-thoracoacromial,L-pectoral br.,1
+L-thyrocervical trunk,L-inferior thyroid,1
+L-thyrocervical trunk,L-suprascapular,1
+L-thyrocervical trunk,L-transverse cervical,1
+L-transverse cervical,L-possibly the dorsal scapular,1
+L-ulnar,L-anterior ulnar recurrent,1
+L-ulnar,L-common interosseous,1
+L-ulnar,L-deep palmar br.,1
+L-ulnar,L-dorsal carpal arterial arch,1
+L-ulnar,L-dorsal carpal br.,1
+L-ulnar,L-palmar carpal br.,1
+L-ulnar,L-posterior ulnar recurrent,1
+L-ulnar,L-superficial palmar arch,1
+L-ulnar,L-superficial palmar arterial arch,1
+L-umbilical,L-superior vesical,1
+L-uterine,L-tubal br.,1
+L-uterine,L-vaginal br.,1
+L-vertebral,basilar,1
+L-vertebral,L-anterior radicular,1
+L-vertebral,L-medullary brs.,1
+L-vertebral,L-meningeal brs.,1
+L-vertebral,L-muscular brs.,1
+L-vertebral,L-posterior inferior cerebellar,1
+L-vertebral,L-posterior radicular,1
+L-vertebral,L-vertebral anterior spinal,1
+L-vertebral,L-vertebral posterior spinal,1
+marginal,marginal colic brs.,1
+middle colic,left br.,1
+middle colic,R-br.,1
+proper hepatic,L-hepatic,1
+proper hepatic,R-hepatic,1
+proper hepatic,R-gastric,1
+pulmonary,L-pulmonary,5
+pulmonary,R-pulmonary,5
+R-anterior cerebral,anterior communicating,1
+R-anterior cerebral,R-callosomarginal,1
+R-anterior cerebral,R-medial frontobasal,1
+R-anterior cerebral,R-polar frontal,1
+R-anterior cerebral,R-precuneal,1
+R-anterior ethmoidal,R-anterior lateral nasal br.,1
+R-anterior ethmoidal,R-anterior meningeal,1
+R-anterior ethmoidal,R-anterior septal br.,1
+R-anterior inferior cerebellar,R-labyrinthine,1
+R-anterior interosseous,R-muscular brs.; of the median nerve,1
+R-anterior renal br.,R-anterior inferior segmental,1
+R-anterior renal br.,R-anterior superior segmental,1
+R-anterior renal br.,R-inferior segmental,1
+R-anterior renal br.,R-inferior suprarenal,1
+R-anterior renal br.,R-superior segmental,1
+R-anterior superior alveolar,R-anterior superior alveolar dental brs.,1
+R-anterior superior alveolar,R-mucosal brs.,1
+R-anterior tibial,R-anterior lateral malleolar,1
+R-anterior tibial,R-anterior medial malleolar,1
+R-anterior tibial,R-anterior tibial circumflex fibular,1
+R-anterior tibial,R-anterior tibial recurrent,1
+R-anterior tibial,R-dorsalis pedis,1
+R-anterior tibial,R-lateral malleolar,1
+R-anterior tibial,R-medial malleolar,1
+R-anterior tibial,R-posterior tibial recurrent,1
+R-arcuate,R-interlobular,1
+R-ascending pharyngeal,R-inferior tympanic,1
+R-ascending pharyngeal,R-pharyngeal brs.,1
+R-ascending pharyngeal,R-posterior meningeal,1
+R-ascending pharyngeal,R-posterior meningeal,1
+R-axillary,R-anterior circumflex humeral,1
+R-axillary,R-anterior humeral circumflex,1
+R-axillary,R-brachial,1
+R-axillary,R-lateral thoracic,1
+R-axillary,R-posterior circumflex humeral,1
+R-axillary,R-posterior humeral circumflex,1
+R-axillary,R-subscapular,1
+R-axillary,R-superior thoracic,1
+R-axillary,R-thoracoacromial,1
+R-brachial,R-deep brachial,1
+R-brachial,R-inferior ulnar collateral,1
+R-brachial,R-radial,1
+R-brachial,R-superior ulnar collateral,1
+R-brachial,R-ulnar,1
+R-colic,R-colic ascending br.,1
+R-colic,R-colic descending br.,1
+R-common carotid,L-internal carotid,2
+R-common carotid,R-external carotid,2
+R-common iliac,R-external iliac,1
+R-common iliac,"R-internal iliac, anterior division",1
+R-common iliac,"R-internal iliac, posterior division",1
+R-common interosseous,R-anterior interosseous,1
+R-common interosseous,R-posterior interosseous,1
+R-common palmar digital,R-proper palmar digital,1
+R-coronary,atrial brs,1
+R-coronary,atrioventricular nodal,1
+R-coronary,posterior interventricular,1
+R-coronary,R-marginal,1
+R-coronary,sinuatrial nodal,1
+R-costocervical trunk,R-deep cervical,1
+R-costocervical trunk,R-posterior intercostal 10,1
+R-costocervical trunk,R-posterior intercostal 11,1
+R-deep brachial,R-deep brachial ascending br,1
+R-deep brachial,R-deep brachial middle collateral,1
+R-deep brachial,R-deep brachial radial collateral,1
+R-deep brachial,R-middle collateral,1
+R-deep brachial,R-radial collateral,1
+R-deep femoral,R-deep femoral perforating (3 or 4),1
+R-deep femoral,R-lateral circumflex femoral,1
+R-deep femoral,R-medial circumflex femoral,1
+R-deep palmar arch,R-deep palmar arch perforating brs.,1
+R-deep palmar arch,R-palmar metacarpal,1
+R-deep plantar,R-plantar metatarsal,1
+R-descending genicular,R-articular brs.,1
+R-descending genicular,R-saphenous br.,1
+R-descending palatine,R-greater palatine,1
+R-descending palatine,R-lesser palatine,1
+R-dorsal carpal arterial arch,R-dorsal metacarpal,1
+R-dorsal metacarpal,R-dorsal metacarpal dorsal digital,1
+R-dorsal metatarsal,R-dorsal digital,1
+R-dorsal metatarsal,R-of foot dorsal digital,1
+R-dorsalis pedis,R-deep plantar,1
+R-dorsalis pedis,R-dorsal metatarsal,1
+R-dorsalis pedis,R-dorsalis pedis arcuate,1
+R-dorsalis pedis,R-lateral tarsal,1
+R-dorsalis pedis,R-medial tarsal,1
+R-external carotid,R-ascending pharyngeal,1
+R-external carotid,R-facial,1
+R-external carotid,R-lingual,1
+R-external carotid,R-maxillary,1
+R-external carotid,R-occipital,1
+R-external carotid,R-posterior auricular,1
+R-external carotid,R-superficial temporal,1
+R-external carotid,R-superior thyroid,1
+R-external iliac,R-deep circumflex iliac,1
+R-external iliac,R-femoral,1
+R-external iliac,R-inferior epigastric,1
+R-facial,R-angular,1
+R-facial,R-facial ascending palatine,1
+R-facial,R-inferior labial,1
+R-facial,R-lateral nasal,1
+R-facial,R-submental,1
+R-facial,R-superior labial,1
+R-facial,R-tonsilar br.,1
+R-femoral,R-deep external pudendal,1
+R-femoral,R-deep femoral,1
+R-femoral,R-descending genicular,1
+R-femoral,R-popliteal,1
+R-femoral,R-superficial circumflex iliac,1
+R-femoral,R-superficial epigastric,1
+R-femoral,R-superficial external pudendal,1
+R-fibular,R-fibular communicating br.,1
+R-fibular,R-fibular perforating br.,1
+R-fibular,R-lateral malleolar,1
+R-fibular,R-nutrient br.,1
+R-fibular,R-posterior lateral malleolar,1
+R-gastro-omental,R-gastro-omental gastric brs.,1
+R-hepatic,cystic,1
+R-hepatic,segmental,1
+right ventricle,pulmonary,10
+R-iliolumbar,R-iliac br.,1
+R-iliolumbar,R-lumbar br.,1
+R-inferior alveolar,R-inferior alveolar dental brs.,1
+R-inferior alveolar,R-lingual br.,1
+R-inferior alveolar,R-mental,1
+R-inferior alveolar,R-mylohyoid,1
+R-inferior epigastric,R-cremasteric,1
+R-inferior thyroid,R-ascending cervical,1
+R-inferior thyroid,R-inferior laryngeal,1
+R-inferior thyroid,R-inferior thyroid ascending cervical,1
+R-inferior thyroid,R-inferior thyroid esophageal brs.,1
+R-inferior thyroid,R-inferior thyroid glandular brs.,1
+R-inferior thyroid,R-tracheal brs.,1
+R-inferior vesical,R-artery of the ductus deferens,1
+R-infraorbital,R-anterior superior alveolar,1
+R-infraorbital,R-middle superior alveolar,1
+R-interlobar,R-of kidney arcuate,1
+R-internal carotid,R-anterior cerebral,1
+R-internal carotid,R-caroticotympanic,1
+R-internal carotid,R-choroidal,1
+R-internal carotid,R-middle cerebral,1
+R-internal carotid,R-none in the neck; in the head: ophthalmic,1
+R-internal carotid,R-ophthalmic,1
+R-internal carotid,R-posterior communicating,1
+"R-internal iliac, anterior division",R-inferior gluteal,1
+"R-internal iliac, anterior division",R-inferior vesical,1
+"R-internal iliac, anterior division",R-internal pudendal,1
+"R-internal iliac, anterior division",R-middle rectal,1
+"R-internal iliac, anterior division",R-obturator,1
+"R-internal iliac, anterior division",R-umbilical,1
+"R-internal iliac, anterior division",R-uterine,1
+"R-internal iliac, anterior division",R-vaginal,1
+"R-internal iliac, posterior division",R-iliolumbar,1
+"R-internal iliac, posterior division",R-lateral sacral,1
+"R-internal iliac, posterior division",R-superior gluteal,1
+R-internal pudendal,R-bulb of the clitoris/penis,1
+R-internal pudendal,R-bulb of vestibule,1
+R-internal pudendal,R-deep clitoral/penile,1
+R-internal pudendal,R-dorsal clitoral/penile,1
+R-internal pudendal,R-inferior rectal,1
+R-internal pudendal,R-perineal,1
+R-internal pudendal,R-urethral,1
+R-internal thoracic,R-anterior intercostal,1
+R-internal thoracic,R-internal thoracic mediastinal brs.,1
+R-internal thoracic,R-internal thoracic perforating brs.,1
+R-internal thoracic,R-musculophrenic,1
+R-internal thoracic,R-pericardiacophrenic,1
+R-internal thoracic,R-superior epigastric,1
+R-internal thoracic,R-thymic brs.,1
+R-internal thoracic perforating brs.,R-medial mammary,1
+R-lacrimal,R-lateral palpebral,1
+R-lateral circumflex femoral,R-lateral circumflex femoral ascending br.,1
+R-lateral circumflex femoral,R-lateral circumflex femoral descending br.,1
+R-lateral circumflex femoral,R-lateral circumflex femoral transverse br.,1
+R-lateral palpebral,R-inferior br.,1
+R-lateral palpebral,R-superior br.,1
+R-lateral plantar,R-plantar arterial arch,1
+R-lateral plantar,R-proper plantar digital to lateral side of 5th digit,1
+R-lateral sacral,R-anterior radicular,1
+R-lateral sacral,R-lateral sacral anterior spinal,1
+R-lateral sacral,R-lateral sacral posterior spinal,1
+R-lateral sacral,R-posterior radicular,1
+R-lateral thoracic,R-lateral mammary,1
+R-lingual,R-deep lingual,1
+R-lingual,R-dorsal lingual brs.,1
+R-lingual,R-sublingual,1
+R-lingual,R-suprahyoid br.,1
+R-maxillary,R-anterior deep temporal,1
+R-maxillary,R-anterior tympanic,1
+R-maxillary,R-buccal,1
+R-maxillary,R-deep auricular,1
+R-maxillary,R-descending palatine,1
+R-maxillary,R-inferior alveolar,1
+R-maxillary,R-infraorbital,1
+R-maxillary,R-masseteric,1
+R-maxillary,R-middle meningeal,1
+R-maxillary,R-of the pterygoid canal,1
+R-maxillary,R-posterior deep temporal,1
+R-maxillary,R-posterior superior alveolar,1
+R-maxillary,R-sphenopalatine,1
+R-medial circumflex femoral,R-medial circumflex femoral ascending br.,1
+R-medial circumflex femoral,R-medial circumflex femoral descending br.,1
+R-medial palpebral,R-inferior br.,1
+R-medial palpebral,R-superior br.,1
+R-medial plantar,R-digital brs. (3),1
+R-middle cerebral,R-anterior parietal,1
+R-middle cerebral,R-central sulcal,1
+R-middle cerebral,R-lateral frontobasal,1
+R-middle cerebral,R-middle central anterior,1
+R-middle cerebral,R-middle cerebral temporal,1
+R-middle cerebral,R-posterior parietal,1
+R-middle cerebral,R-posterior temporal,1
+R-middle cerebral,R-precentral sulcal,1
+R-middle cerebral,R-prefrontal sulcal,1
+R-middle meningeal,R-frontal br.,1
+R-middle meningeal,R-frontal br.,1
+R-middle meningeal,R-middle meningeal parietal br.,1
+R-middle meningeal,R-petrous br.,1
+R-middle meningeal,R-superior tympanic br.,1
+R-middle superior alveolar,R-dental brs.,1
+R-middle superior alveolar,R-middle superior alveolar dental brs.,1
+R-middle superior alveolar,R-mucosal brs.,1
+R-musculophrenic,R-anterior intercostal,1
+R-obturator,R-acetabular br.,1
+R-obturator,R-obturator anterior br.,1
+R-obturator,R-obturator posterior br.,1
+R-obturator,R-pubic br.,1
+R-occipital,R-occipital auricular br.,1
+R-occipital,R-occipital brs.,1
+R-occipital,R-occipital descending br.,1
+R-occipital,R-occipital mastoid br.,1
+R-occipital,R-sternocleidomastoid brs.,1
+R-of retina central,R-inferior nasal br.,1
+R-of retina central,R-inferior temporal br.,1
+R-of retina central,R-superior nasal br.,1
+R-of retina central,R-superior temporal br.,1
+R-ophthalmic,R-anterior ciliary,1
+R-ophthalmic,R-anterior ethmoidal,1
+R-ophthalmic,R-central retinal,1
+R-ophthalmic,R-dorsal nasal,1
+R-ophthalmic,R-lacrimal,1
+R-ophthalmic,R-medial palpebral,1
+R-ophthalmic,R-muscular brs.,1
+R-ophthalmic,R-of retina central,1
+R-ophthalmic,R-posterior ciliary,1
+R-ophthalmic,R-posterior ethmoidal,1
+R-ophthalmic,R-supraorbital,1
+R-ophthalmic,R-supratrochlear,1
+R-ovarian,R-tubal brs.,1
+R-ovarian,R-uterine brs.,1
+R-palmar metacarpal,R-proper palmar digital,1
+R-pericardiacophrenic,R-pericardial br.,1
+R-pericardiacophrenic,R-sternal br.,1
+R-perineal,R-posterior labial,1
+R-perineal,R-posterior scrotal,1
+R-perineal,R-posterior scrotal,1
+R-perineal,R-posterior scrotal,1
+R-plantar arterial arch,R-plantar metatarsal,1
+R-plantar metatarsal,R-plantar digital,1
+R-plantar metatarsal,R-plantar metatarsal perforating br.,1
+R-popliteal,R-5 genicular brs.,1
+R-popliteal,R-anterior tibial,1
+R-popliteal,R-inferior medial genicular,1
+R-popliteal,R-middle genicular,1
+R-popliteal,R-posterior tibial,1
+R-popliteal,R-superior lateral genicular,1
+R-popliteal,R-superior medial genicular,1
+R-popliteal,R-sural,1
+R-posterior auricular,R-auricular br.,1
+R-posterior auricular,R-occipital br.,1
+R-posterior auricular,R-stylomastoid,1
+R-posterior cerebral,R-central brs.,1
+R-posterior cerebral,R-choroidal brs.,1
+R-posterior cerebral,R-cortical brs.,1
+R-posterior cerebral,R-quadrigeminal,1
+R-posterior communicating,R-posterior communicating perforating,1
+R-posterior inferior cerebellar,R-posterior spinal,1
+R-posterior interosseous,R-interosseous recurrent,1
+R-posterior lateral malleolar,R-calcaneal brs.,1
+R-posterior spinal,R-pial arterial plexus,1
+R-posterior superior alveolar,R-mucosal brs.,1
+R-posterior superior alveolar,R-posterior superior alveolar dental brs.,1
+R-posterior tibial,R-fibular,1
+R-posterior tibial,R-lateral plantar,1
+R-posterior tibial,R-medial calcaneal brs.,1
+R-posterior tibial,R-medial plantar,1
+R-posterior tibial,R-nutrient of the tibia,1
+R-posterior tibial,R-posterior medial malleolar brs.,1
+R-posterior tibial,R-posterior tibial circumflex fibular,1
+R-posterior tibial,R-posterior tibial communicating br.,1
+R-princeps pollicis,R-two brs. to the thumb,1
+R-pulmonary,R-anterior basal segmental,1
+R-pulmonary,R-anterior segmental,1
+R-pulmonary,R-apical segmental,1
+R-pulmonary,R-inferior lobar segmental,1
+R-pulmonary,R-lateral  segmental,1
+R-pulmonary,R-lateral basal  segmental,1
+R-pulmonary,R-medial basal segmental,1
+R-pulmonary,R-medial segmental,1
+R-pulmonary,R-middle lobar segmental,1
+R-pulmonary,R-posterior basal segmental,1
+R-pulmonary,R-posterior segmental,1
+R-pulmonary,R-superior lobar,1
+R-pulmonary,R-superior segmental,1
+R-radial,R-deep palmar arch,1
+R-radial,R-deep palmar arterial arch,1
+R-radial,R-dorsal carpal arterial arch,1
+R-radial,R-dorsal carpal br.,1
+R-radial,R-palmar carpal br.,1
+R-radial,R-princeps pollicis,1
+R-radial,R-radial recurrent,1
+R-radial,R-radialis indicis,1
+R-radial,R-superficial palmar br.,1
+R-renal,R-afferent,1
+R-renal,R-anterior renal br.,1
+R-renal,R-arcuate,1
+R-renal,R-interlobar,1
+R-renal,R-posterior segmental,1
+R-sphenopalatine,R-posterior lateral nasal brs.,1
+R-sphenopalatine,R-posterior septal brs.,1
+R-subclavian,R-axillary,1
+R-subclavian,R-costocervical trunk,1
+R-subclavian,R-dorsal scapular,1
+R-subclavian,R-internal thoracic,1
+R-subclavian,R-thyrocervical trunk,1
+R-subclavian,R-vertebral,1
+R-subcostal,R-great anterior radicular,1
+R-subcostal,R-lateral cutaneous br.,1
+R-subcostal,R-subcostal anterior spinal,1
+R-subcostal,R-subcostal collateral br.,1
+R-subcostal,R-subcostal posterior spinal,1
+R-subscapular,R-circumflex scapular,1
+R-subscapular,R-thoracodorsal,1
+R-superficial epigastric,R-cutaneous brs.,1
+R-superficial palmar arterial arch,R-common palmar digital,1
+R-superficial palmar br.,R-superficial palmar arch,1
+R-superficial temporal,R-anterior auricular brs.,1
+R-superficial temporal,R-frontal br.,1
+R-superficial temporal,R-middle temporal,1
+R-superficial temporal,R-superficial temporal parietal br.,1
+R-superficial temporal,R-transverse facial,1
+R-superficial temporal,R-zygomatico-orbital,1
+R-superior gluteal,R-deep br.,1
+R-superior gluteal,R-superficial br.,1
+R-superior labial,R-septal br.,1
+R-superior thyroid,R-cricothyroid,1
+R-superior thyroid,R-infrahyoid br.,1
+R-superior thyroid,R-sternocleidomastoid br.,1
+R-superior thyroid,R-superior laryngeal,1
+R-superior thyroid,R-superior thyroid glandular brs.,1
+R-suprascapular,R-muscular,1
+R-testicular,R-ureteric brs.,1
+R-thoracoacromial,R-acromial br.,1
+R-thoracoacromial,R-clavicular br.,1
+R-thoracoacromial,R-deltoid br.,1
+R-thoracoacromial,R-pectoral br.,1
+R-thyrocervical trunk,R-inferior thyroid,1
+R-thyrocervical trunk,R-suprascapular,1
+R-thyrocervical trunk,R-transverse cervical,1
+R-transverse cervical,R-possibly the dorsal scapular,1
+R-ulnar,R-anterior ulnar recurrent,1
+R-ulnar,R-common interosseous,1
+R-ulnar,R-deep palmar br.,1
+R-ulnar,R-dorsal carpal arterial arch,1
+R-ulnar,R-dorsal carpal br.,1
+R-ulnar,R-palmar carpal br.,1
+R-ulnar,R-posterior ulnar recurrent,1
+R-ulnar,R-superficial palmar arch,1
+R-ulnar,R-superficial palmar arterial arch,1
+R-umbilical,R-superior vesical,1
+R-uterine,R-tubal br.,1
+R-uterine,R-vaginal br.,1
+R-vertebral,basilar,1
+R-vertebral,R-anterior radicular,1
+R-vertebral,R-medullary brs.,1
+R-vertebral,R-meningeal brs.,1
+R-vertebral,R-muscular brs.,1
+R-vertebral,R-posterior inferior cerebellar,1
+R-vertebral,R-posterior radicular,1
+R-vertebral,R-vertebral anterior spinal,1
+R-vertebral,R-vertebral posterior spinal,1
+sigmoid,sigmoid ascending br.,1
+sigmoid,sigmoid descending br.,1
+splenic,dorsal pancreatic,1
+splenic,L-gastro-omental,1
+splenic,pancreatic brs.,1
+splenic,pancreatica magna,1
+splenic,short gastric,1
+splenic,splenic brs.,1
+splenic,superior pancreatic,1
+superior mesenteric,ileal,1
+superior mesenteric,ileocolic,1
+superior mesenteric,inferior pancreaticoduodenal,1
+superior mesenteric,intestinal,1
+superior mesenteric,jejunal,1
+superior mesenteric,marginal,1
+superior mesenteric,middle colic,1
+superior mesenteric,R-colic,1
+superior pancreaticoduodenal,anterior superior pancreaticoduodenal,1
+superior pancreaticoduodenal,posterior superior pancreaticoduodenal,1
