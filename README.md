@@ -5,4 +5,4 @@ Blood vessel data from Wikipedia and transformed into two columns, one for paren
 
 More details about this chart are on the blog post at:
 
-[http://itisbiz.com/human-arterial-blood-flow-sankey-diagram/] (http://itisbiz.com/human-arterial-blood-flow-sankey-diagram/)
+[http://009co.com/?p=1] (http://009co.com/?p=1)
