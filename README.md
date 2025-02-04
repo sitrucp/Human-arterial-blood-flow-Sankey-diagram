@@ -7,7 +7,7 @@ Blood vessel data from Wikipedia and transformed into two columns, one for paren
 
 More details about this chart are on the blog post at:
 
-[http://009co.com/?p=1] (http://009co.com/?p=1)
+[http://009co.com/?p=1]
 
 ## Features
 - **Interactive Visualization:** Hover over any link to highlight the link and see the artery-source names and relative flow values.
