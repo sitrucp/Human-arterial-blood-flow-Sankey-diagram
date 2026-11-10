@@ -7,7 +7,7 @@ Blood vessel data from Wikipedia and transformed into two columns, one for paren
 
 More details about this chart are on the blog post at:
 
-[http://curtispokrant.com/?p=1]
+[Read the accompanying article](https://curtispokrant.com/posts/hello-world/)
 
 ## Features
 - **Interactive Visualization:** Hover over any link to highlight the link and see the artery-source names and relative flow values.
@@ -15,7 +15,7 @@ More details about this chart are on the blog post at:
 - **Drag and Drop:** Nodes (e.g., artery names) can be dragged along the vertical axis to reposition them for better readability.
 
 ## Demo
-More details about this chart can be found on the blog post [here](http://009co.com/?p=1).
+View the [interactive diagram](https://curtispokrant.com/demos/arterial-sankey/) and its [data table](https://curtispokrant.com/demos/arterial-sankey/data.html).
 
 ## Usage
 
